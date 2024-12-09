@@ -76,11 +76,11 @@ header a:hover {
     font-size: 30px;
     line-height: 1.8em;  
 }
-.shop {
+.download {
     display:flex;
 }
-.shop ,img {
-    width:50%;
+.download img {
+    width:30%;
 }
 .info {
     width:50%;
