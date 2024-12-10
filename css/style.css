@@ -110,62 +110,6 @@ header a:hover {
     text-align: center;
     line-height: 2em;
 }
-.product {
-    display:flex;
-    background-color: #ede9db;
-    justify-content: space-between;
-    align-items: center;
-    padding: 100px 180px 80px;
-}
-.product ,div {
-    width:300px;
-    text-align:center;
-}
-.product ,img {
-    width:100%;
-    border-radius: 10px;;
-}
-.product h3 {
-    font-size: 20px;    
-    margin: 20px 0;
-}
-.product p {
-    font-size:14px;
-    line-height: 1.6em;
-}
-.newsletter {
-    background-color:#485652;
-    color:white;
-    padding:60px 0;
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-}
-.newsletter p {
-    margin-bottom: 20px;
-}
-.newsletter input, .newsletter button {
-    background-color: transparent;
-    color:white;
-    border: 1px solid #949d9a; 
-    padding: 10px; 
-    border-radius: 5px;;
-}
-.newsletter input {
-    width:200px;
-    margin-right: 15px;;
-}
-.newsletter button {
-    width:80px;
-    cursor:pointer;
-}
-input::placeholder {
-    color:#DDDDDD;
-}
-input:focus {
-    outline: none; 
-    border-color:#E0E9A3; 
-}
 footer {
     background-color:#000000;
     color:#B7B7B7;
