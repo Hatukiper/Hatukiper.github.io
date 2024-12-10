@@ -67,11 +67,16 @@ header a:hover {
     border-radius: 5px;
 }
 .link1 {
-    color: #000000;
+    color: #4f4f4f;
     text-decoration: none;
     border: 1px solid #ACACAC;
-    padding: 5px 20px;
+    padding: 10px 20px;
     border-radius: 5px;
+}
+.link01 {
+    color: #4f4f4f;
+    font-size: 23px;
+    margin: 25px 0;
 }
 .slogan {
     background-color:CadetBlue;
